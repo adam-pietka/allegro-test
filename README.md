@@ -1,2 +1,1 @@
-# allegro-test
-first commit
+# devskiller-se-task
